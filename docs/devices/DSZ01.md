@@ -20,7 +20,7 @@ pageClass: device-page
 | Description | Door or window contact switch |
 | Exposes | contact, battery_low, linkquality |
 | Picture | ![J.XUAN DSZ01](https://www.zigbee2mqtt.io/images/devices/DSZ01.png) |
-
+| Battery | CR1632 3Volt |
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
 
